@@ -1,1 +1,1 @@
-loan approval
+Projects on machine learning
